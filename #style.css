@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: aliceblue;
+    background-color: #2B4033;
+}
+ 
+header{
+    background-color: #8FA578;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 10px;
+}
