@@ -4,8 +4,10 @@
 }
 
 body{
-    color: aliceblue;
-    background-color: #2B4033;
+    font-family: Arial, sans-serif;
+    background-color:#2B4033 ;
+    margin: 0;
+    padding: 0;
 }
  
 header{
